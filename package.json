@@ -1,0 +1,33 @@
+{
+  "name": "react-native-sendsms",
+  "version": "0.0.1",
+  "description": "Send SMS from React Native (Android)",
+  "main": "index.android.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified yet\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidstoneham/react-native-sendsms.git"
+  },
+  "keywords": [
+    "react-native-sendsms",
+    "react-component",
+    "reactnative",
+    "react-native",
+    "sms",
+    "android"
+  ],
+  "author": "David Stoneham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidstoneham/react-native-sendsms/issues"
+  },
+  "homepage": "https://github.com/davidstoneham/react-native-sendsms",
+  "peerDependencies": {
+    "react-native": ">=0.14.0"
+  },
+  "dependencies": {
+    "rnpm": "1.5.2"
+  }
+}
